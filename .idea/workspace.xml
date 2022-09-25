@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e60bd51-5d0b-4a87-b4e5-c03949db2915" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Repeating/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repeating/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repeating/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repeating/Triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Repeating/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Repeating/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,20 +48,7 @@
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PaymentsApp">
-    <configuration name="BankAccountApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BankAccPack.BankAccountApp" />
-      <module name="JavaTraining" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BankAccPack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.StudentTest">
     <configuration name="CommonExceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExceptionsAndFiles.CommonExceptions" />
       <module name="JavaTraining" />
@@ -98,12 +88,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentDBApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StudentDatabase.StudentDBApp" />
+    <configuration name="StudentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Repeating.StudentTest" />
       <module name="JavaTraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StudentDatabase.*" />
+          <option name="PATTERN" value="Repeating.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Repeating.Test" />
+      <module name="JavaTraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Repeating.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StudentTest" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.PaymentsApp" />
         <item itemvalue="Application.CommonExceptions" />
         <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.StudentDBApp" />
-        <item itemvalue="Application.BankAccountApp" />
       </list>
     </recent_temporary>
   </component>
@@ -132,7 +135,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589230274851</updated>
-      <workItem from="1664104698321" duration="385000" />
+      <workItem from="1664104698321" duration="4245000" />
     </task>
     <task id="LOCAL-00001" summary="exception handling">
       <created>1589485559960</created>
@@ -161,59 +164,5 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="exception handling" />
     <option name="LAST_COMMIT_MESSAGE" value="exception handling" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="530" y="40" key="#com.intellij.ide.util.MemberChooser" timestamp="1589473025288">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="530" y="40" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1589473025288" />
-    <state x="263" y="0" key="CommitChangelistDialog2" timestamp="1589485558684">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="263" y="0" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1589485558684" />
-    <state width="1481" height="245" key="GridCell.Tab.0.bottom" timestamp="1589486946145">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1481" height="245" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1589486946145" />
-    <state width="1481" height="245" key="GridCell.Tab.0.center" timestamp="1589486946145">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1481" height="245" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1589486946145" />
-    <state width="1481" height="245" key="GridCell.Tab.0.left" timestamp="1589486946145">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1481" height="245" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1589486946145" />
-    <state width="1481" height="245" key="GridCell.Tab.0.right" timestamp="1589486946145">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1481" height="245" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1589486946145" />
-    <state width="1481" height="245" key="GridCell.Tab.1.bottom" timestamp="1589486946145">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1481" height="245" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1589486946145" />
-    <state width="1481" height="245" key="GridCell.Tab.1.center" timestamp="1589486946145">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1481" height="245" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1589486946145" />
-    <state width="1481" height="245" key="GridCell.Tab.1.left" timestamp="1589486946145">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1481" height="245" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1589486946145" />
-    <state width="1481" height="245" key="GridCell.Tab.1.right" timestamp="1589486946145">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1481" height="245" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1589486946145" />
-    <state x="146" y="0" key="SettingsEditor" timestamp="1589474477484">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="146" y="0" key="SettingsEditor/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1589474477484" />
-    <state x="379" y="194" key="com.intellij.ide.util.TipDialog" timestamp="1589487360261">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="379" y="194" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1589487360261" />
-    <state x="347" y="0" width="840" height="822" key="search.everywhere.popup" timestamp="1589474494386">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="347" y="0" width="840" height="822" key="search.everywhere.popup/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1589474494386" />
   </component>
 </project>
