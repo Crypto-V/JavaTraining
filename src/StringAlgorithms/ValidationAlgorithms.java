@@ -1,4 +1,4 @@
-package Algorithms;
+package StringAlgorithms;
 
 public class ValidationAlgorithms {
 //    With this algorithm you can validate if the given input has certain parameters or attributes.

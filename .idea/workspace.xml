@@ -2,11 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e60bd51-5d0b-4a87-b4e5-c03949db2915" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/Algorithms.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/ValidationAlgorithms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringAlgorithms/CustomParsing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringAlgorithms/Normalization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringAlgorithms/SearchSubsetOfChars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringAlgorithms/Tets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringAlgorithms/ValidationAlgorithms2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/Repeating/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/Repeating/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/Repeating/StudentTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/Repeating/StudentTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/Algorithms/Algorithms.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/Algorithms/ValidationAlgorithms.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algorithms/Algorithms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringAlgorithms/Algorithms.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algorithms/ValidationAlgorithms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringAlgorithms/ValidationAlgorithms.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,13 +53,13 @@
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ValidationAlgorithms">
-    <configuration name="Algorithms" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Algorithms.Algorithms" />
+  <component name="RunManager" selected="Application.Tets">
+    <configuration name="CustomParsing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringAlgorithms.CustomParsing" />
       <module name="JavaTraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Algorithms.*" />
+          <option name="PATTERN" value="StringAlgorithms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PaymentsApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExceptionsAndFiles.PaymentsApp" />
+    <configuration name="Normalization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringAlgorithms.Normalization" />
       <module name="JavaTraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExceptionsAndFiles.*" />
+          <option name="PATTERN" value="StringAlgorithms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Repeating.StudentTest" />
+    <configuration name="SearchSubsetOfChars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringAlgorithms.SearchSubsetOfChars" />
       <module name="JavaTraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Repeating.*" />
+          <option name="PATTERN" value="StringAlgorithms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Repeating.Test" />
+    <configuration name="Tets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringAlgorithms.Tets" />
       <module name="JavaTraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Repeating.*" />
+          <option name="PATTERN" value="StringAlgorithms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidationAlgorithms" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Algorithms.ValidationAlgorithms" />
+    <configuration name="ValidationAlgorithms2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringAlgorithms.ValidationAlgorithms2" />
       <module name="JavaTraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Algorithms.*" />
+          <option name="PATTERN" value="StringAlgorithms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ValidationAlgorithms" />
-        <item itemvalue="Application.Algorithms" />
-        <item itemvalue="Application.StudentTest" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.PaymentsApp" />
+        <item itemvalue="Application.Tets" />
+        <item itemvalue="Application.CustomParsing" />
+        <item itemvalue="Application.SearchSubsetOfChars" />
+        <item itemvalue="Application.Normalization" />
+        <item itemvalue="Application.StringAlgorithms.ValidationAlgorithms2" />
       </list>
     </recent_temporary>
   </component>
@@ -135,7 +140,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589230274851</updated>
-      <workItem from="1664104698321" duration="8590000" />
+      <workItem from="1664104698321" duration="15014000" />
     </task>
     <task id="LOCAL-00001" summary="exception handling">
       <created>1589485559960</created>
@@ -164,5 +169,26 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="exception handling" />
     <option name="LAST_COMMIT_MESSAGE" value="exception handling" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringAlgorithms/Tets.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringAlgorithms/Tets.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringAlgorithms/Tets.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

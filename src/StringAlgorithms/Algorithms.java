@@ -1,4 +1,4 @@
-package Algorithms;
+package StringAlgorithms;
 
 public class Algorithms {
     public static int findMaximum(int a, int b, int c) {
