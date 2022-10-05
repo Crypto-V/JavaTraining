@@ -1,17 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e60bd51-5d0b-4a87-b4e5-c03949db2915" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/StringAlgorithms/CustomParsing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringAlgorithms/Normalization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringAlgorithms/SearchSubsetOfChars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringAlgorithms/Tets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringAlgorithms/ValidationAlgorithms2.java" afterDir="false" />
+    <list default="true" id="5e60bd51-5d0b-4a87-b4e5-c03949db2915" name="Default Changelist" comment="exception handling">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codewars/Pangram.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/Algorithms/Algorithms.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/Algorithms/ValidationAlgorithms.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Algorithms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringAlgorithms/Algorithms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/ValidationAlgorithms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringAlgorithms/ValidationAlgorithms.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/BankAccPack/BankAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/BankAccPack/BankAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/BankAccPack/BankAccountApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/BankAccPack/BankAccountApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/BankAccPack/IInterest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/BankAccPack/IInterest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/ExceptionsAndFiles/CommonExceptions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/ExceptionsAndFiles/CommonExceptions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/ExceptionsAndFiles/NegativePaymentException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/ExceptionsAndFiles/NegativePaymentException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/ExceptionsAndFiles/PaymentsApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/ExceptionsAndFiles/PaymentsApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/Repeating/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/Repeating/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/Repeating/StudentTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/Repeating/StudentTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/Repeating/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/Repeating/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/Repeating/Triangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/Repeating/Triangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/StringAlgorithms/Algorithms.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/StringAlgorithms/Algorithms.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/StringAlgorithms/CustomParsing.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/StringAlgorithms/CustomParsing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/StringAlgorithms/Normalization.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/StringAlgorithms/Normalization.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/StringAlgorithms/SearchSubsetOfChars.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/StringAlgorithms/SearchSubsetOfChars.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/StringAlgorithms/Tets.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/StringAlgorithms/ValidationAlgorithms.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/StringAlgorithms/ValidationAlgorithms.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/StringAlgorithms/ValidationAlgorithms2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/StringAlgorithms/ValidationAlgorithms2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/StudentDatabase/StudentDBApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/StudentDatabase/StudentDBApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/StudentDatabase/StudentFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/StudentDatabase/StudentFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BankAccPack/BankAccountApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bankAccPack/BankAccountApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BankAccPack/IInterest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bankAccPack/IInterest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicsOfProgramming.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/repeating/BasicsOfProgramming.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codewars/Cities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExceptionsAndFiles/CommonExceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exceptionsAndFiles/CommonExceptions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExceptionsAndFiles/NegativePaymentException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exceptionsAndFiles/NegativePaymentException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExceptionsAndFiles/PaymentsApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exceptionsAndFiles/PaymentsApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FibonnaciApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codewars/FibonnaciApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Repeating/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/repeating/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Repeating/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/repeating/StudentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Repeating/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/repeating/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Repeating/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/repeating/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringAlgorithms/Algorithms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stringAlgorithms/Algorithms.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringAlgorithms/CustomParsing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stringAlgorithms/CustomParsing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringAlgorithms/Normalization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stringAlgorithms/Normalization.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringAlgorithms/SearchSubsetOfChars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stringAlgorithms/SearchSubsetOfChars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringAlgorithms/TestForPrimeNumbers_CodeWars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stringAlgorithms/TestForPrimeNumbers_CodeWars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringAlgorithms/ValidationAlgorithms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stringAlgorithms/ValidationAlgorithms.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringAlgorithms/ValidationAlgorithms2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stringAlgorithms/ValidationAlgorithms2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StudentDatabase/StudentDBApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/studentDatabase/StudentDBApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StudentDatabase/StudentFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/studentDatabase/StudentFactory.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,57 +81,19 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/verej/OneDrive/Desktop/JavaTraining",
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Tets">
-    <configuration name="CustomParsing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringAlgorithms.CustomParsing" />
-      <module name="JavaTraining" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StringAlgorithms.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Normalization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringAlgorithms.Normalization" />
-      <module name="JavaTraining" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StringAlgorithms.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SearchSubsetOfChars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringAlgorithms.SearchSubsetOfChars" />
-      <module name="JavaTraining" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StringAlgorithms.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Tets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.com.codewars.Pangram">
+    <configuration name="StringAlgorithms.Tets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StringAlgorithms.Tets" />
       <module name="JavaTraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StringAlgorithms.*" />
+          <option name="PATTERN" value="com.stringAlgorithms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +101,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidationAlgorithms2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringAlgorithms.ValidationAlgorithms2" />
+    <configuration name="com.codewars.Pangram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codewars.Pangram" />
       <module name="JavaTraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StringAlgorithms.*" />
+          <option name="PATTERN" value="com.codewars.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.stringAlgorithms.CustomParsing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stringAlgorithms.CustomParsing" />
+      <module name="JavaTraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stringAlgorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.stringAlgorithms.Normalization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stringAlgorithms.Normalization" />
+      <module name="JavaTraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stringAlgorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.stringAlgorithms.SearchSubsetOfChars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stringAlgorithms.SearchSubsetOfChars" />
+      <module name="JavaTraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stringAlgorithms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +155,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Tets" />
-        <item itemvalue="Application.CustomParsing" />
-        <item itemvalue="Application.SearchSubsetOfChars" />
-        <item itemvalue="Application.Normalization" />
-        <item itemvalue="Application.StringAlgorithms.ValidationAlgorithms2" />
+        <item itemvalue="Application.com.codewars.Pangram" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +170,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589230274851</updated>
-      <workItem from="1664104698321" duration="15014000" />
+      <workItem from="1664104698321" duration="18297000" />
+      <workItem from="1664963400189" duration="1961000" />
     </task>
     <task id="LOCAL-00001" summary="exception handling">
       <created>1589485559960</created>
@@ -169,26 +200,5 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="exception handling" />
     <option name="LAST_COMMIT_MESSAGE" value="exception handling" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringAlgorithms/Tets.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringAlgorithms/Tets.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringAlgorithms/Tets.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

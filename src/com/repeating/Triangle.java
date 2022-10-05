@@ -1,4 +1,4 @@
-package Repeating;
+package com.repeating;
 
 public class Triangle {
     static int sides = 3;

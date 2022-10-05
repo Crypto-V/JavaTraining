@@ -1,4 +1,4 @@
-package StringAlgorithms;
+package com.stringAlgorithms;
 
 public class ValidationAlgorithms2 {
     //Validating more complex strings such as checking if the string contain a digit or at least one uppercase letter and so on.

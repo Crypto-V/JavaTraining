@@ -1,4 +1,4 @@
-package BankAccPack;
+package com.bankAccPack;
 
 public interface IInterest {
     public double rate=4.5;

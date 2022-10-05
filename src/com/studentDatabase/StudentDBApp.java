@@ -1,4 +1,4 @@
-package StudentDatabase;
+package com.studentDatabase;
 
 public class StudentDBApp {
     public static void main(String[] args) {

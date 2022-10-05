@@ -1,4 +1,4 @@
-package Repeating;
+package com.repeating;
 
 public class StudentTest {
     public static void main(String[] args) {

@@ -1,3 +1,5 @@
+package com.repeating;
+
 public class BasicsOfProgramming {
     public static void main(String[] args) {
         //1. Write a function that takes a value n returns the sum of numbers 1 to n

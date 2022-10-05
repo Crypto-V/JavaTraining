@@ -1,4 +1,4 @@
-package ExceptionsAndFiles;
+package com.exceptionsAndFiles;
 
 import java.util.Scanner;
 

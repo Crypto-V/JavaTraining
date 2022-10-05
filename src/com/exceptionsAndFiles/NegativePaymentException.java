@@ -1,4 +1,4 @@
-package ExceptionsAndFiles;
+package com.exceptionsAndFiles;
 
 public class NegativePaymentException extends Exception {
         double payment;

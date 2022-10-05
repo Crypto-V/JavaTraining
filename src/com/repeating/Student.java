@@ -1,4 +1,4 @@
-package Repeating;
+package com.repeating;
 
 public class Student {
     String firstName;

@@ -1,3 +1,5 @@
+package com.codewars;
+
 public class FibonnaciApp {
     public static void main(String[] args) {
         //Fibonnaci number is defined by the sum of two previous numbers.

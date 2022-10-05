@@ -1,4 +1,4 @@
-package BankAccPack;
+package com.bankAccPack;
 
 public class BankAccountApp {
     public static void main(String[] args) {

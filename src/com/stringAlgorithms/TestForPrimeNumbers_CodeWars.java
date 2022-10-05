@@ -1,4 +1,4 @@
-package StringAlgorithms;
+package com.stringAlgorithms;
 
 public class TestForPrimeNumbers_CodeWars {
 

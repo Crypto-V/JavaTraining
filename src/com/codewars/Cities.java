@@ -1,3 +1,5 @@
+package com.codewars;
+
 public class Cities {
     public static void main(String[] args) {
         //Decalre and define the array

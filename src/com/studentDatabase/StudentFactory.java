@@ -1,4 +1,4 @@
-package StudentDatabase;
+package com.studentDatabase;
 
 public class StudentFactory {
     //Properties

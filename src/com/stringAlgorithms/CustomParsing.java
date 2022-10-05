@@ -1,6 +1,4 @@
-package StringAlgorithms;
-
-import java.util.Locale;
+package com.stringAlgorithms;
 
 public class CustomParsing {
 

@@ -1,4 +1,4 @@
-package ExceptionsAndFiles;
+package com.exceptionsAndFiles;
 
 public class CommonExceptions {
     public static void main(String[] args) {
