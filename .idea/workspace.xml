@@ -2,49 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e60bd51-5d0b-4a87-b4e5-c03949db2915" name="Default Changelist" comment="exception handling">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codewars/Pangram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/amicode/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/arrayAlgorithms/AgreagateAndFiltering.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/arrayAlgorithms/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/arrayAlgorithms/LinearSearch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/BankAccPack/BankAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/BankAccPack/BankAccount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/BankAccPack/BankAccountApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/BankAccPack/BankAccountApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/BankAccPack/IInterest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/BankAccPack/IInterest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/ExceptionsAndFiles/CommonExceptions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/ExceptionsAndFiles/CommonExceptions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/ExceptionsAndFiles/NegativePaymentException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/ExceptionsAndFiles/NegativePaymentException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/ExceptionsAndFiles/PaymentsApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/ExceptionsAndFiles/PaymentsApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/Repeating/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/Repeating/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/Repeating/StudentTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/Repeating/StudentTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/Repeating/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/Repeating/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/Repeating/Triangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/Repeating/Triangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/StringAlgorithms/Algorithms.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/StringAlgorithms/Algorithms.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/StringAlgorithms/CustomParsing.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/StringAlgorithms/CustomParsing.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/StringAlgorithms/Normalization.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/StringAlgorithms/Normalization.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/StringAlgorithms/SearchSubsetOfChars.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/StringAlgorithms/SearchSubsetOfChars.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/StringAlgorithms/Tets.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/StringAlgorithms/ValidationAlgorithms.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/StringAlgorithms/ValidationAlgorithms.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/StringAlgorithms/ValidationAlgorithms2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/StringAlgorithms/ValidationAlgorithms2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/StudentDatabase/StudentDBApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/StudentDatabase/StudentDBApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/StudentDatabase/StudentFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/StudentDatabase/StudentFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BankAccPack/BankAccountApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bankAccPack/BankAccountApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BankAccPack/IInterest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bankAccPack/IInterest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BasicsOfProgramming.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/repeating/BasicsOfProgramming.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codewars/Cities.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExceptionsAndFiles/CommonExceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exceptionsAndFiles/CommonExceptions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExceptionsAndFiles/NegativePaymentException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exceptionsAndFiles/NegativePaymentException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExceptionsAndFiles/PaymentsApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exceptionsAndFiles/PaymentsApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FibonnaciApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codewars/FibonnaciApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Repeating/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/repeating/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Repeating/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/repeating/StudentTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Repeating/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/repeating/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Repeating/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/repeating/Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringAlgorithms/Algorithms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stringAlgorithms/Algorithms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringAlgorithms/CustomParsing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stringAlgorithms/CustomParsing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringAlgorithms/Normalization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stringAlgorithms/Normalization.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringAlgorithms/SearchSubsetOfChars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stringAlgorithms/SearchSubsetOfChars.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringAlgorithms/TestForPrimeNumbers_CodeWars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stringAlgorithms/TestForPrimeNumbers_CodeWars.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringAlgorithms/ValidationAlgorithms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stringAlgorithms/ValidationAlgorithms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringAlgorithms/ValidationAlgorithms2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stringAlgorithms/ValidationAlgorithms2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StudentDatabase/StudentDBApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/studentDatabase/StudentDBApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StudentDatabase/StudentFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/studentDatabase/StudentFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/BankAccPack/BankAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/BankAccPack/BankAccountApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/BankAccPack/IInterest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/BasicsOfProgramming.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/Cities.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/ExceptionsAndFiles/CommonExceptions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/ExceptionsAndFiles/NegativePaymentException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/ExceptionsAndFiles/PaymentsApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/FibonnaciApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/Repeating/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/Repeating/StudentTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/Repeating/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/Repeating/Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/StringAlgorithms/Algorithms.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/StringAlgorithms/CustomParsing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/StringAlgorithms/Normalization.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/StringAlgorithms/SearchSubsetOfChars.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/StringAlgorithms/TestForPrimeNumbers_CodeWars.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/StringAlgorithms/ValidationAlgorithms.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/StringAlgorithms/ValidationAlgorithms2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/StudentDatabase/StudentDBApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/StudentDatabase/StudentFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/codewars/Pangram.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,17 +62,43 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/verej/OneDrive/Desktop/JavaTraining",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/verej/OneDrive/Desktop/JavaTraining&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.com.codewars.Pangram">
+}</component>
+  <component name="RunManager" selected="Application.BinarySearch">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arrayAlgorithms.BinarySearch" />
+      <module name="JavaTraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arrayAlgorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arrayAlgorithms.LinearSearch" />
+      <module name="JavaTraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arrayAlgorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StringAlgorithms.Tets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StringAlgorithms.Tets" />
       <module name="JavaTraining" />
@@ -114,32 +125,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.stringAlgorithms.CustomParsing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.stringAlgorithms.CustomParsing" />
-      <module name="JavaTraining" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.stringAlgorithms.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.stringAlgorithms.Normalization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.stringAlgorithms.Normalization" />
-      <module name="JavaTraining" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.stringAlgorithms.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="com.stringAlgorithms.SearchSubsetOfChars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.stringAlgorithms.SearchSubsetOfChars" />
       <module name="JavaTraining" />
@@ -155,6 +140,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.LinearSearch" />
         <item itemvalue="Application.com.codewars.Pangram" />
       </list>
     </recent_temporary>
@@ -171,7 +158,8 @@
       <option name="presentableId" value="Default" />
       <updated>1589230274851</updated>
       <workItem from="1664104698321" duration="18297000" />
-      <workItem from="1664963400189" duration="1961000" />
+      <workItem from="1664963400189" duration="4005000" />
+      <workItem from="1665577860433" duration="2800000" />
     </task>
     <task id="LOCAL-00001" summary="exception handling">
       <created>1589485559960</created>
