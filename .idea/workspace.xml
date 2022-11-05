@@ -2,34 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e60bd51-5d0b-4a87-b4e5-c03949db2915" name="Default Changelist" comment="exception handling">
-      <change afterPath="$PROJECT_DIR$/src/com/amicode/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/arrayAlgorithms/AgreagateAndFiltering.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/arrayAlgorithms/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/arrayAlgorithms/LinearSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/arrayAlgorithms/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codewars/CountVowels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codewars/PhoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codewars/StringSortNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/BankAccPack/BankAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/BankAccPack/BankAccountApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/BankAccPack/IInterest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/BasicsOfProgramming.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/Cities.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/ExceptionsAndFiles/CommonExceptions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/ExceptionsAndFiles/NegativePaymentException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/ExceptionsAndFiles/PaymentsApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/FibonnaciApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/Repeating/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/Repeating/StudentTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/Repeating/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/Repeating/Triangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/StringAlgorithms/Algorithms.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/StringAlgorithms/CustomParsing.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/StringAlgorithms/Normalization.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/StringAlgorithms/SearchSubsetOfChars.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/StringAlgorithms/TestForPrimeNumbers_CodeWars.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/StringAlgorithms/ValidationAlgorithms.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/StringAlgorithms/ValidationAlgorithms2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/StudentDatabase/StudentDBApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/StudentDatabase/StudentFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/codewars/Pangram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/arrayAlgorithms/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/arrayAlgorithms/BinarySearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/arrayAlgorithms/AgreagateAndFiltering.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/arrayAlgorithms/AgreagateAndFiltering.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +52,51 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.BinarySearch">
+  <component name="RunManager" selected="Application.StringSortNumber">
+    <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
+      <option name="appName" />
+      <option name="appServicePlanName" />
+      <option name="appServicePlanResourceGroup" />
+      <option name="appSettingsKey" value="2f7a8a0f-2861-438e-b99f-77eecca49fc9" />
+      <option name="artifact" />
+      <option name="autoPort" value="true" />
+      <option name="debugOptions" />
+      <option name="deployment" />
+      <option name="deploymentStagingDirectoryPath" />
+      <option name="funcPath" />
+      <option name="funcPort" value="0" />
+      <option name="hostJsonPath" />
+      <option name="insightsName" />
+      <option name="instrumentationKey" />
+      <option name="javaVersion" />
+      <option name="localSettingsJsonPath" />
+      <option name="moduleName" />
+      <option name="os" />
+      <option name="pricingTier" />
+      <option name="providerMap">
+        <map />
+      </option>
+      <option name="region" />
+      <option name="resourceGroup" />
+      <option name="stagingFolder" />
+      <option name="subscription" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AgreagateAndFiltering" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arrayAlgorithms.AgreagateAndFiltering" />
+      <module name="JavaTraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arrayAlgorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.arrayAlgorithms.BinarySearch" />
       <module name="JavaTraining" />
@@ -86,34 +110,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.arrayAlgorithms.LinearSearch" />
-      <module name="JavaTraining" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.arrayAlgorithms.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringAlgorithms.Tets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringAlgorithms.Tets" />
-      <module name="JavaTraining" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.stringAlgorithms.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.codewars.Pangram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codewars.Pangram" />
+    <configuration name="CountVowels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codewars.CountVowels" />
       <module name="JavaTraining" />
       <extension name="coverage">
         <pattern>
@@ -125,12 +123,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.stringAlgorithms.SearchSubsetOfChars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.stringAlgorithms.SearchSubsetOfChars" />
+    <configuration name="PhoneNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codewars.PhoneNumber" />
       <module name="JavaTraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.stringAlgorithms.*" />
+          <option name="PATTERN" value="com.codewars.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringSortNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codewars.StringSortNumber" />
+      <module name="JavaTraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codewars.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,9 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringSortNumber" />
+        <item itemvalue="Application.CountVowels" />
+        <item itemvalue="Application.PhoneNumber" />
+        <item itemvalue="Application.AgreagateAndFiltering" />
         <item itemvalue="Application.BinarySearch" />
-        <item itemvalue="Application.LinearSearch" />
-        <item itemvalue="Application.com.codewars.Pangram" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +172,11 @@
       <updated>1589230274851</updated>
       <workItem from="1664104698321" duration="18297000" />
       <workItem from="1664963400189" duration="4005000" />
-      <workItem from="1665577860433" duration="2800000" />
+      <workItem from="1665577860433" duration="4549000" />
+      <workItem from="1665911961138" duration="1821000" />
+      <workItem from="1666297905463" duration="119000" />
+      <workItem from="1666298049411" duration="882000" />
+      <workItem from="1667601690673" duration="9870000" />
     </task>
     <task id="LOCAL-00001" summary="exception handling">
       <created>1589485559960</created>
@@ -188,5 +205,16 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="exception handling" />
     <option name="LAST_COMMIT_MESSAGE" value="exception handling" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/codewars/CountVowels.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
