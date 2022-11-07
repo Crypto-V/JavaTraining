@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e60bd51-5d0b-4a87-b4e5-c03949db2915" name="Default Changelist" comment="exception handling">
-      <change afterPath="$PROJECT_DIR$/src/com/arrayAlgorithms/ReverseArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codewars/CountVowels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codewars/PhoneNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codewars/StringSortNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codewars/FirstLongestConcatenatedString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codewars/startPyramid.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/arrayAlgorithms/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/arrayAlgorithms/BinarySearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/arrayAlgorithms/AgreagateAndFiltering.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/arrayAlgorithms/AgreagateAndFiltering.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/codewars/StringSortNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/codewars/StringSortNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codewars/StringSortNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codewars/StringSortNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +49,7 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.StringSortNumber">
+  <component name="RunManager" selected="Application.startPyramid">
     <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
       <option name="appName" />
       <option name="appServicePlanName" />
@@ -84,34 +81,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AgreagateAndFiltering" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.arrayAlgorithms.AgreagateAndFiltering" />
-      <module name="JavaTraining" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.arrayAlgorithms.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.arrayAlgorithms.BinarySearch" />
-      <module name="JavaTraining" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.arrayAlgorithms.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="CountVowels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codewars.CountVowels" />
+      <module name="JavaTraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codewars.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstLongestConcatenatedString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codewars.FirstLongestConcatenatedString" />
       <module name="JavaTraining" />
       <extension name="coverage">
         <pattern>
@@ -149,13 +133,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="startPyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codewars.startPyramid" />
+      <module name="JavaTraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codewars.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.startPyramid" />
+        <item itemvalue="Application.FirstLongestConcatenatedString" />
         <item itemvalue="Application.StringSortNumber" />
         <item itemvalue="Application.CountVowels" />
         <item itemvalue="Application.PhoneNumber" />
-        <item itemvalue="Application.AgreagateAndFiltering" />
-        <item itemvalue="Application.BinarySearch" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +173,8 @@
       <workItem from="1665911961138" duration="1821000" />
       <workItem from="1666297905463" duration="119000" />
       <workItem from="1666298049411" duration="882000" />
-      <workItem from="1667601690673" duration="9870000" />
+      <workItem from="1667601690673" duration="15002000" />
+      <workItem from="1667743005717" duration="5949000" />
     </task>
     <task id="LOCAL-00001" summary="exception handling">
       <created>1589485559960</created>

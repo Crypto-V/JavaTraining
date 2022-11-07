@@ -24,14 +24,9 @@ public class StringSortNumber {
                 if (spliter.contains(Integer.toString(number))) {
                     finalString.append(spliter).append(" ");
                     number++;
-
                 }
-
             }
-
         }
-
-
         return finalString.toString().stripTrailing();
     }
 }
