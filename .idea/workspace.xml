@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e60bd51-5d0b-4a87-b4e5-c03949db2915" name="Default Changelist" comment="exception handling">
-      <change afterPath="$PROJECT_DIR$/src/com/codewars/FirstLongestConcatenatedString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codewars/startPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codewars/SequenceNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codewars/TestingPrintF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codewars/ThreeInts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codewars/Unaltered.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codewars/WeirdGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codewars/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/codewars/StringSortNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/codewars/StringSortNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/codewars/StringSortNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codewars/StringSortNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +51,7 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.startPyramid">
+  <component name="RunManager" selected="Application.SequenceNumbers">
     <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
       <option name="appName" />
       <option name="appServicePlanName" />
@@ -81,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountVowels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codewars.CountVowels" />
+    <configuration name="SequenceNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codewars.SequenceNumbers" />
       <module name="JavaTraining" />
       <extension name="coverage">
         <pattern>
@@ -94,8 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstLongestConcatenatedString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codewars.FirstLongestConcatenatedString" />
+    <configuration name="TestingPrintF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codewars.TestingPrintF" />
       <module name="JavaTraining" />
       <extension name="coverage">
         <pattern>
@@ -107,8 +109,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PhoneNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codewars.PhoneNumber" />
+    <configuration name="Unaltered" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codewars.Unaltered" />
       <module name="JavaTraining" />
       <extension name="coverage">
         <pattern>
@@ -120,8 +122,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringSortNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codewars.StringSortNumber" />
+    <configuration name="WeirdGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codewars.WeirdGame" />
       <module name="JavaTraining" />
       <extension name="coverage">
         <pattern>
@@ -133,8 +135,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="startPyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codewars.startPyramid" />
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codewars.test" />
       <module name="JavaTraining" />
       <extension name="coverage">
         <pattern>
@@ -148,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.startPyramid" />
-        <item itemvalue="Application.FirstLongestConcatenatedString" />
-        <item itemvalue="Application.StringSortNumber" />
-        <item itemvalue="Application.CountVowels" />
-        <item itemvalue="Application.PhoneNumber" />
+        <item itemvalue="Application.SequenceNumbers" />
+        <item itemvalue="Application.TestingPrintF" />
+        <item itemvalue="Application.Unaltered" />
+        <item itemvalue="Application.WeirdGame" />
+        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +176,10 @@
       <workItem from="1666297905463" duration="119000" />
       <workItem from="1666298049411" duration="882000" />
       <workItem from="1667601690673" duration="15002000" />
-      <workItem from="1667743005717" duration="5949000" />
+      <workItem from="1667743005717" duration="6295000" />
+      <workItem from="1667996933300" duration="742000" />
+      <workItem from="1668345853936" duration="2706000" />
+      <workItem from="1668788350581" duration="8780000" />
     </task>
     <task id="LOCAL-00001" summary="exception handling">
       <created>1589485559960</created>
