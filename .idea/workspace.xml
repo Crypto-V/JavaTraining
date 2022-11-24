@@ -2,13 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e60bd51-5d0b-4a87-b4e5-c03949db2915" name="Default Changelist" comment="exception handling">
-      <change afterPath="$PROJECT_DIR$/src/com/codewars/SequenceNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codewars/TestingPrintF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codewars/ThreeInts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codewars/Unaltered.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codewars/WeirdGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codewars/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hackerRank/CalendarDay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hackerRank/IntToString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hackerRank/ParallelogramArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hackerRank/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hackerRank/StageredFizzBuzz.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/codewars/SequenceNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/codewars/SequenceNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codewars/Cities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hackerRank/Cities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codewars/CountVowels.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hackerRank/CountVowels.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codewars/FibonnaciApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hackerRank/FibonnaciApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codewars/FirstLongestConcatenatedString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hackerRank/FirstLongestConcatenatedString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codewars/Pangram.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hackerRank/Pangram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codewars/Pangram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hackerRank/Pangram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codewars/PhoneNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hackerRank/PhoneNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codewars/SequenceNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hackerRank/SequenceNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codewars/StringSortNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hackerRank/StringSortNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codewars/TestingPrintF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hackerRank/TestingPrintF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codewars/ThreeInts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hackerRank/ThreeInts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codewars/Unaltered.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hackerRank/Unaltered.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codewars/WeirdGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hackerRank/WeirdGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codewars/startPyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hackerRank/startPyramid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codewars/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hackerRank/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +66,7 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SequenceNumbers">
+  <component name="RunManager" selected="Application.ReverseArray">
     <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
       <option name="appName" />
       <option name="appServicePlanName" />
@@ -83,12 +98,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CalendarDay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hackerRank.CalendarDay" />
+      <module name="JavaTraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hackerRank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParallelogramArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hackerRank.ParallelogramArea" />
+      <module name="JavaTraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hackerRank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hackerRank.ReverseArray" />
+      <module name="JavaTraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hackerRank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SequenceNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codewars.SequenceNumbers" />
+      <option name="MAIN_CLASS_NAME" value="com.hackerRank.SequenceNumbers" />
       <module name="JavaTraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codewars.*" />
+          <option name="PATTERN" value="com.hackerRank.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,51 +150,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestingPrintF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codewars.TestingPrintF" />
+    <configuration name="StageredFizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hackerRank.StageredFizzBuzz" />
       <module name="JavaTraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codewars.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Unaltered" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codewars.Unaltered" />
-      <module name="JavaTraining" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codewars.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WeirdGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codewars.WeirdGame" />
-      <module name="JavaTraining" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codewars.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codewars.test" />
-      <module name="JavaTraining" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codewars.*" />
+          <option name="PATTERN" value="com.hackerRank.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseArray" />
+        <item itemvalue="Application.CalendarDay" />
+        <item itemvalue="Application.ParallelogramArea" />
+        <item itemvalue="Application.StageredFizzBuzz" />
         <item itemvalue="Application.SequenceNumbers" />
-        <item itemvalue="Application.TestingPrintF" />
-        <item itemvalue="Application.Unaltered" />
-        <item itemvalue="Application.WeirdGame" />
-        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +194,9 @@
       <workItem from="1667743005717" duration="6295000" />
       <workItem from="1667996933300" duration="742000" />
       <workItem from="1668345853936" duration="2706000" />
-      <workItem from="1668788350581" duration="8780000" />
+      <workItem from="1668788350581" duration="8912000" />
+      <workItem from="1668870724343" duration="601000" />
+      <workItem from="1669295961027" duration="11766000" />
     </task>
     <task id="LOCAL-00001" summary="exception handling">
       <created>1589485559960</created>
@@ -213,7 +230,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/codewars/CountVowels.java</url>
+          <url>file://$PROJECT_DIR$/src/com/hackerRank/CountVowels.java</url>
           <line>5</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
