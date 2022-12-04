@@ -6,8 +6,14 @@ import java.util.Set;
 
 public class ReturnMinimumNotInList {
     public static void main(String[] args) {
-        int x = solution(new int[]{1, 2, 3,6, 5, 3});
+        int x = solution(new int[]{1, 2, 4,6, 5, 3});
+        int y = solution(new int[]{1, -1,2, 3,6, 5, 3,64,0});
+        int z = solution(new int[]{1, 2, 3,4,-6, 5, 3});
+        int d = solution(new int[]{-1, -2, -3,-6, -5, -13});
         System.out.println(x);
+        System.out.println(y);
+        System.out.println(z);
+        System.out.println(d);
     }
 
 
