@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e60bd51-5d0b-4a87-b4e5-c03949db2915" name="Default Changelist" comment="exception handling">
-      <change afterPath="$PROJECT_DIR$/src/com/codewars/ArrayFromString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/streams/functionalinterface/_Predicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codewars/NumberPresenceInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codewars/SortArraysBasedOnNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codewars/tests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,27 +41,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/verej/OneDrive/Desktop/JavaTraining",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/verej/OneDrive/Desktop/JavaTraining&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.streams" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArrayFromString">
+  <component name="RunManager" selected="Application.tests">
     <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
       <option name="appName" />
       <option name="appServicePlanName" />
@@ -105,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_Consumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.streams.functionalinterface._Consumer" />
+    <configuration name="NumberPresenceInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codewars.NumberPresenceInArray" />
       <module name="JavaTraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.streams.functionalinterface.*" />
+          <option name="PATTERN" value="com.codewars.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_Function" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.streams.functionalinterface._Function" />
+    <configuration name="SortArraysBasedOnNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codewars.SortArraysBasedOnNumbers" />
       <module name="JavaTraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.streams.functionalinterface.*" />
+          <option name="PATTERN" value="com.codewars.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.streams.main" />
+    <configuration name="tests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codewars.tests" />
       <module name="JavaTraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.streams.*" />
+          <option name="PATTERN" value="com.codewars.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.tests" />
+        <item itemvalue="Application.NumberPresenceInArray" />
+        <item itemvalue="Application.SortArraysBasedOnNumbers" />
         <item itemvalue="Application.ArrayFromString" />
         <item itemvalue="Application._Predicate" />
-        <item itemvalue="Application._Consumer" />
-        <item itemvalue="Application._Function" />
-        <item itemvalue="Application.main" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +194,8 @@
       <workItem from="1669295961027" duration="18572000" />
       <workItem from="1670075897718" duration="12414000" />
       <workItem from="1670113320591" duration="163000" />
-      <workItem from="1670161131986" duration="4137000" />
+      <workItem from="1670161131986" duration="4760000" />
+      <workItem from="1670416277713" duration="12904000" />
     </task>
     <task id="LOCAL-00001" summary="exception handling">
       <created>1589485559960</created>
