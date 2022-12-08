@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e60bd51-5d0b-4a87-b4e5-c03949db2915" name="Default Changelist" comment="exception handling">
-      <change afterPath="$PROJECT_DIR$/src/com/codewars/NumberPresenceInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codewars/SortArraysBasedOnNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codewars/tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codewars/StringNumericValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codewars/TwoStringArrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/codewars/tests.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +61,7 @@
       <recent name="com.streams" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.tests">
+  <component name="RunManager" selected="Application.StringNumericValue">
     <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
       <option name="appName" />
       <option name="appServicePlanName" />
@@ -93,8 +93,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayFromString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codewars.ArrayFromString" />
+    <configuration name="NumberPresenceInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codewars.NumberPresenceInArray" />
       <module name="JavaTraining" />
       <extension name="coverage">
         <pattern>
@@ -106,8 +106,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberPresenceInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codewars.NumberPresenceInArray" />
+    <configuration name="SimilarArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codewars.SimilarArrays" />
       <module name="JavaTraining" />
       <extension name="coverage">
         <pattern>
@@ -132,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_Predicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.streams.functionalinterface._Predicate" />
+    <configuration name="StringNumericValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codewars.StringNumericValue" />
       <module name="JavaTraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.streams.functionalinterface.*" />
+          <option name="PATTERN" value="com.codewars.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,8 +145,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codewars.tests" />
+    <configuration name="TwoStringArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codewars.TwoStringArrays" />
       <module name="JavaTraining" />
       <extension name="coverage">
         <pattern>
@@ -160,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.tests" />
+        <item itemvalue="Application.StringNumericValue" />
+        <item itemvalue="Application.TwoStringArrays" />
+        <item itemvalue="Application.SimilarArrays" />
         <item itemvalue="Application.NumberPresenceInArray" />
         <item itemvalue="Application.SortArraysBasedOnNumbers" />
-        <item itemvalue="Application.ArrayFromString" />
-        <item itemvalue="Application._Predicate" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +195,7 @@
       <workItem from="1670075897718" duration="12414000" />
       <workItem from="1670113320591" duration="163000" />
       <workItem from="1670161131986" duration="4760000" />
-      <workItem from="1670416277713" duration="12904000" />
+      <workItem from="1670416277713" duration="22237000" />
     </task>
     <task id="LOCAL-00001" summary="exception handling">
       <created>1589485559960</created>
