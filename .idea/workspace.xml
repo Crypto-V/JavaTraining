@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e60bd51-5d0b-4a87-b4e5-c03949db2915" name="Default Changelist" comment="exception handling">
-      <change afterPath="$PROJECT_DIR$/src/com/codewars/StringNumericValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codewars/TwoStringArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codewars/DetectFibonacciNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codewars/HighestScoringWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hackerRank/frogJump.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hackerRank/rolledDice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/codewars/tests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/codewars/StringNumericValue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codewars/StringNumericValue.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +64,7 @@
       <recent name="com.streams" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringNumericValue">
+  <component name="RunManager" selected="Application.DetectFibonacciNumbers">
     <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
       <option name="appName" />
       <option name="appServicePlanName" />
@@ -93,8 +96,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberPresenceInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codewars.NumberPresenceInArray" />
+    <configuration name="DetectFibonacciNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codewars.DetectFibonacciNumbers" />
+      <module name="JavaTraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codewars.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HighestScoringWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codewars.HighestScoringWord" />
       <module name="JavaTraining" />
       <extension name="coverage">
         <pattern>
@@ -119,32 +135,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortArraysBasedOnNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codewars.SortArraysBasedOnNumbers" />
-      <module name="JavaTraining" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codewars.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringNumericValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codewars.StringNumericValue" />
-      <module name="JavaTraining" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codewars.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TwoStringArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codewars.TwoStringArrays" />
       <module name="JavaTraining" />
@@ -158,13 +148,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="rolledDice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hackerRank.rolledDice" />
+      <module name="JavaTraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hackerRank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StringNumericValue" />
+        <item itemvalue="Application.DetectFibonacciNumbers" />
+        <item itemvalue="Application.rolledDice" />
+        <item itemvalue="Application.HighestScoringWord" />
         <item itemvalue="Application.TwoStringArrays" />
         <item itemvalue="Application.SimilarArrays" />
-        <item itemvalue="Application.NumberPresenceInArray" />
-        <item itemvalue="Application.SortArraysBasedOnNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +198,8 @@
       <workItem from="1670075897718" duration="12414000" />
       <workItem from="1670113320591" duration="163000" />
       <workItem from="1670161131986" duration="4760000" />
-      <workItem from="1670416277713" duration="22237000" />
+      <workItem from="1670416277713" duration="35388000" />
+      <workItem from="1670581972626" duration="11944000" />
     </task>
     <task id="LOCAL-00001" summary="exception handling">
       <created>1589485559960</created>
@@ -233,6 +237,10 @@
           <line>5</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArithmeticException" package="java.lang" />
+          <option name="timeStamp" value="6" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
