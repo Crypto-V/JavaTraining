@@ -5,79 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e60bd51-5d0b-4a87-b4e5-c03949db2915" name="Default Changelist" comment="exception handling">
-      <change afterPath="$PROJECT_DIR$/src/com/codewars/BiggestInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codewars/LongestSlideDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codewars/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codewars/PhoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hackerRank/CheckPalindromThatCanBecreated.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hackerRank/PlusMinus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hackerRank/XXXandOOO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/amicode/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/amicode/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/arrayAlgorithms/AgreagateAndFiltering.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/arrayAlgorithms/AgreagateAndFiltering.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/arrayAlgorithms/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/arrayAlgorithms/BinarySearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/arrayAlgorithms/LinearSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/arrayAlgorithms/LinearSearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/arrayAlgorithms/ReverseArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/arrayAlgorithms/ReverseArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/bankAccPack/BankAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/bankAccPack/BankAccount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/bankAccPack/BankAccountApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/bankAccPack/BankAccountApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/bankAccPack/IInterest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/bankAccPack/IInterest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/codewars/ArrayFromString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/codewars/ArrayFromString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/codewars/DetectFibonacciNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/codewars/DetectFibonacciNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/codewars/HighestScoringWord.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/codewars/HighestScoringWord.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/codewars/NumberPresenceInArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/codewars/NumberPresenceInArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/codewars/SimilarArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/codewars/SimilarArrays.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/codewars/SmileyFace.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/codewars/SmileyFace.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/codewars/SortArraysBasedOnNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/codewars/SortArraysBasedOnNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/codewars/TwoStringArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/codewars/TwoStringArrays.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/codewars/stringChunks.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/codewars/stringChunks.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/exceptionsAndFiles/CommonExceptions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/exceptionsAndFiles/CommonExceptions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/exceptionsAndFiles/NegativePaymentException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/exceptionsAndFiles/NegativePaymentException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/exceptionsAndFiles/PaymentsApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/exceptionsAndFiles/PaymentsApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/hackerRank/CalendarDay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/hackerRank/CalendarDay.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/hackerRank/Cities.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/hackerRank/Cities.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/hackerRank/CountVowels.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/hackerRank/CountVowels.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/hackerRank/CountVowels2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/hackerRank/CountVowels2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/hackerRank/FibonnaciApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/hackerRank/FibonnaciApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/hackerRank/FirstLongestConcatenatedString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/hackerRank/FirstLongestConcatenatedString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/hackerRank/HourGlasses.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/hackerRank/HourGlasses.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/hackerRank/IntToString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/hackerRank/IntToString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/hackerRank/Pangram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/hackerRank/Pangram.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/hackerRank/ParallelogramArea.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/hackerRank/ParallelogramArea.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/hackerRank/PhoneNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/hackerRank/PhoneNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/hackerRank/Result.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/hackerRank/Result.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/hackerRank/ReturnMinimumNotInList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/hackerRank/ReturnMinimumNotInList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/hackerRank/ReverseArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/hackerRank/ReverseArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/hackerRank/SequenceNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/hackerRank/SequenceNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/hackerRank/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/hackerRank/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/hackerRank/StageredFizzBuzz.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/hackerRank/StageredFizzBuzz.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/hackerRank/StringSortNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/hackerRank/StringSortNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/hackerRank/SumIntArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/hackerRank/SumIntArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/hackerRank/TestInterview.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/hackerRank/TestingPrintF.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/hackerRank/TestingPrintF.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/hackerRank/ThreeInts.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/hackerRank/ThreeInts.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/hackerRank/Unaltered.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/hackerRank/Unaltered.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/hackerRank/WeirdGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/hackerRank/WeirdGame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/hackerRank/frogJump.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/hackerRank/frogJump.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/hackerRank/rolledDice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/hackerRank/rolledDice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/hackerRank/startPyramid.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/hackerRank/startPyramid.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/repeating/BasicsOfProgramming.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/repeating/BasicsOfProgramming.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/repeating/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/repeating/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/repeating/StudentTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/repeating/StudentTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/repeating/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/repeating/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/repeating/Triangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/repeating/Triangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/streams/functionalinterface/_Consumer$Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/streams/functionalinterface/_Consumer$Customer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/streams/functionalinterface/_Consumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/streams/functionalinterface/_Consumer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/streams/functionalinterface/_Function.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/streams/functionalinterface/_Function.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/streams/functionalinterface/_Predicate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/streams/functionalinterface/_Predicate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/streams/main$Gender.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/streams/main$Gender.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/streams/main$Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/streams/main$Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/streams/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/streams/main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/stringAlgorithms/Algorithms.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/stringAlgorithms/Algorithms.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/stringAlgorithms/CustomParsing.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/stringAlgorithms/CustomParsing.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/stringAlgorithms/Normalization.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/stringAlgorithms/Normalization.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/stringAlgorithms/SearchSubsetOfChars.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/stringAlgorithms/SearchSubsetOfChars.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/stringAlgorithms/TestForPrimeNumbers_CodeWars.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/stringAlgorithms/TestForPrimeNumbers_CodeWars.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/stringAlgorithms/ValidationAlgorithms.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/stringAlgorithms/ValidationAlgorithms.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/stringAlgorithms/ValidationAlgorithms2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/stringAlgorithms/ValidationAlgorithms2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/studentDatabase/StudentDBApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/studentDatabase/StudentDBApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/studentDatabase/StudentFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/studentDatabase/StudentFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hackerRank/TestInterview.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/codewars/BiggestInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/codewars/BiggestInteger.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +63,7 @@
       <recent name="com.streams" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BiggestInteger">
+  <component name="RunManager" selected="Application.PlusMinus">
     <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
       <option name="appName" />
       <option name="appServicePlanName" />
@@ -175,6 +108,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CheckPalindromThatCanBecreated" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hackerRank.CheckPalindromThatCanBecreated" />
+      <module name="JavaTraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hackerRank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LongestSlideDown" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codewars.LongestSlideDown" />
       <module name="JavaTraining" />
@@ -188,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SmileyFace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codewars.SmileyFace" />
+    <configuration name="PlusMinus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hackerRank.PlusMinus" />
       <module name="JavaTraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codewars.*" />
+          <option name="PATTERN" value="com.hackerRank.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -201,25 +147,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="stringChunks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codewars.stringChunks" />
+    <configuration name="XXXandOOO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hackerRank.XXXandOOO" />
       <module name="JavaTraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codewars.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codewars.test" />
-      <module name="JavaTraining" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codewars.*" />
+          <option name="PATTERN" value="com.hackerRank.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -229,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PlusMinus" />
+        <item itemvalue="Application.CheckPalindromThatCanBecreated" />
+        <item itemvalue="Application.XXXandOOO" />
         <item itemvalue="Application.BiggestInteger" />
         <item itemvalue="Application.LongestSlideDown" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.SmileyFace" />
-        <item itemvalue="Application.stringChunks" />
       </list>
     </recent_temporary>
   </component>
@@ -265,7 +198,10 @@
       <workItem from="1670113320591" duration="163000" />
       <workItem from="1670161131986" duration="4760000" />
       <workItem from="1670416277713" duration="35388000" />
-      <workItem from="1670581972626" duration="35883000" />
+      <workItem from="1670581972626" duration="36625000" />
+      <workItem from="1673099608246" duration="6140000" />
+      <workItem from="1673651315632" duration="565000" />
+      <workItem from="1674139091951" duration="1631000" />
     </task>
     <task id="LOCAL-00001" summary="exception handling">
       <created>1589485559960</created>
