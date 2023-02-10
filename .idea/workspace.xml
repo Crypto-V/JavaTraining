@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e60bd51-5d0b-4a87-b4e5-c03949db2915" name="Default Changelist" comment="exception handling">
-      <change afterPath="$PROJECT_DIR$/src/com/hackerRank2/CountingSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/repeating/CheckAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/repeating/MaxDeclineStockPrices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/repeating/TheSecretChamber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/hackerRank2/CountingSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/hackerRank2/CountingSort.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +62,7 @@
       <recent name="com.streams" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CountingSort">
+  <component name="RunManager" selected="Application.MaxDeclineStockPrices">
     <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
       <option name="appName" />
       <option name="appServicePlanName" />
@@ -91,6 +94,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CheckAnagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.repeating.CheckAnagram" />
+      <module name="JavaTraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.repeating.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CountingSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.hackerRank2.CountingSort" />
       <module name="JavaTraining" />
@@ -117,25 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HoursTimeConversionDateFormat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hackerRank.HoursTimeConversionDateFormat" />
+    <configuration name="MaxDeclineStockPrices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.repeating.MaxDeclineStockPrices" />
       <module name="JavaTraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hackerRank.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HoursTimeConvertion2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hackerRank.HoursTimeConvertion2" />
-      <module name="JavaTraining" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.hackerRank.*" />
+          <option name="PATTERN" value="com.repeating.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaxDeclineStockPrices" />
+        <item itemvalue="Application.CheckAnagram" />
         <item itemvalue="Application.CountingSort" />
         <item itemvalue="Application.DiagonalDifference" />
         <item itemvalue="Application.lonelyInteger" />
-        <item itemvalue="Application.HoursTimeConversionDateFormat" />
-        <item itemvalue="Application.HoursTimeConvertion2" />
       </list>
     </recent_temporary>
   </component>
@@ -201,7 +204,8 @@
       <workItem from="1674392409189" duration="7643000" />
       <workItem from="1674482450849" duration="3419000" />
       <workItem from="1674592512317" duration="4249000" />
-      <workItem from="1675903304443" duration="8022000" />
+      <workItem from="1675903304443" duration="8499000" />
+      <workItem from="1675986582422" duration="6619000" />
     </task>
     <task id="LOCAL-00001" summary="exception handling">
       <created>1589485559960</created>
