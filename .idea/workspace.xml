@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e60bd51-5d0b-4a87-b4e5-c03949db2915" name="Default Changelist" comment="exception handling">
-      <change afterPath="$PROJECT_DIR$/src/com/repeating/CheckAnagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/repeating/MaxDeclineStockPrices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/repeating/TheSecretChamber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codility/AirplaneSeatAllocation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codility/CheckPassword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codility/CostOfDeletion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codility/SmallestPossitiveInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codility/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/hackerRank2/CountingSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/hackerRank2/CountingSort.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +63,7 @@
       <recent name="com.streams" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MaxDeclineStockPrices">
+  <component name="RunManager" selected="Application.CostOfDeletion">
     <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
       <option name="appName" />
       <option name="appServicePlanName" />
@@ -94,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckAnagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.repeating.CheckAnagram" />
+    <configuration name="AirplaneSeatAllocation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codility.AirplaneSeatAllocation" />
       <module name="JavaTraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.repeating.*" />
+          <option name="PATTERN" value="com.codility.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountingSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hackerRank2.CountingSort" />
+    <configuration name="CheckPassword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codility.CheckPassword" />
       <module name="JavaTraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hackerRank2.*" />
+          <option name="PATTERN" value="com.codility.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DiagonalDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hackerRank2.DiagonalDifference" />
+    <configuration name="CostOfDeletion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codility.CostOfDeletion" />
       <module name="JavaTraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hackerRank2.*" />
+          <option name="PATTERN" value="com.codility.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxDeclineStockPrices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.repeating.MaxDeclineStockPrices" />
+    <configuration name="SmallestPossitiveInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codility.SmallestPossitiveInteger" />
       <module name="JavaTraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.repeating.*" />
+          <option name="PATTERN" value="com.codility.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,12 +147,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lonelyInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hackerRank2.lonelyInteger" />
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codility.test" />
       <module name="JavaTraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hackerRank2.*" />
+          <option name="PATTERN" value="com.codility.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MaxDeclineStockPrices" />
-        <item itemvalue="Application.CheckAnagram" />
-        <item itemvalue="Application.CountingSort" />
-        <item itemvalue="Application.DiagonalDifference" />
-        <item itemvalue="Application.lonelyInteger" />
+        <item itemvalue="Application.CostOfDeletion" />
+        <item itemvalue="Application.AirplaneSeatAllocation" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.CheckPassword" />
+        <item itemvalue="Application.SmallestPossitiveInteger" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +206,8 @@
       <workItem from="1674482450849" duration="3419000" />
       <workItem from="1674592512317" duration="4249000" />
       <workItem from="1675903304443" duration="8499000" />
-      <workItem from="1675986582422" duration="6619000" />
+      <workItem from="1675986582422" duration="6951000" />
+      <workItem from="1676122760554" duration="12374000" />
     </task>
     <task id="LOCAL-00001" summary="exception handling">
       <created>1589485559960</created>
