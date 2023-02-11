@@ -5,12 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e60bd51-5d0b-4a87-b4e5-c03949db2915" name="Default Changelist" comment="exception handling">
-      <change afterPath="$PROJECT_DIR$/src/com/codility/AirplaneSeatAllocation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codility/CheckPassword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codility/CostOfDeletion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codility/SmallestPossitiveInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codility/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/CheckBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/MailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/TaXCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/TaxCalculator2019.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/TaxCalculator2020.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/TextBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/UiControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/memento/Editor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/memento/EditorState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/memento/History.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/state/BrushTool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/state/Canvas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/state/SelectionTool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/state/Tool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/state/ToolType.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/codility/CostOfDeletion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/codility/CostOfDeletion.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +38,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -63,7 +78,7 @@
       <recent name="com.streams" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CostOfDeletion">
+  <component name="RunManager" selected="Application.Main">
     <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
       <option name="appName" />
       <option name="appServicePlanName" />
@@ -134,12 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SmallestPossitiveInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codility.SmallestPossitiveInteger" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.designPatterns.Main" />
       <module name="JavaTraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codility.*" />
+          <option name="PATTERN" value="com.designPatterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.CostOfDeletion" />
         <item itemvalue="Application.AirplaneSeatAllocation" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.CheckPassword" />
-        <item itemvalue="Application.SmallestPossitiveInteger" />
       </list>
     </recent_temporary>
   </component>
@@ -207,7 +222,7 @@
       <workItem from="1674592512317" duration="4249000" />
       <workItem from="1675903304443" duration="8499000" />
       <workItem from="1675986582422" duration="6951000" />
-      <workItem from="1676122760554" duration="12374000" />
+      <workItem from="1676122760554" duration="20672000" />
     </task>
     <task id="LOCAL-00001" summary="exception handling">
       <created>1589485559960</created>
