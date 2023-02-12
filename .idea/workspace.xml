@@ -5,26 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e60bd51-5d0b-4a87-b4e5-c03949db2915" name="Default Changelist" comment="exception handling">
-      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/CheckBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/MailService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/TaXCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/TaxCalculator2019.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/TaxCalculator2020.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/TextBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/UiControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/memento/Editor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/memento/EditorState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/memento/History.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/state/BrushTool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/state/Canvas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/state/SelectionTool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/state/Tool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/state/ToolType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hackerRank2/FlippingMatrix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/codility/CostOfDeletion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/codility/CostOfDeletion.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +60,7 @@
       <recent name="com.streams" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.FlippingMatrix">
     <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
       <option name="appName" />
       <option name="appServicePlanName" />
@@ -123,8 +105,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckPassword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codility.CheckPassword" />
+    <configuration name="CostOfDeletion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codility.CostOfDeletion" />
       <module name="JavaTraining" />
       <extension name="coverage">
         <pattern>
@@ -136,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CostOfDeletion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codility.CostOfDeletion" />
+    <configuration name="FlippingMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hackerRank2.FlippingMatrix" />
       <module name="JavaTraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codility.*" />
+          <option name="PATTERN" value="com.hackerRank2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FlippingMatrix" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.CostOfDeletion" />
         <item itemvalue="Application.AirplaneSeatAllocation" />
         <item itemvalue="Application.test" />
-        <item itemvalue="Application.CheckPassword" />
       </list>
     </recent_temporary>
   </component>
@@ -222,7 +204,8 @@
       <workItem from="1674592512317" duration="4249000" />
       <workItem from="1675903304443" duration="8499000" />
       <workItem from="1675986582422" duration="6951000" />
-      <workItem from="1676122760554" duration="20672000" />
+      <workItem from="1676122760554" duration="20733000" />
+      <workItem from="1676219120868" duration="1195000" />
     </task>
     <task id="LOCAL-00001" summary="exception handling">
       <created>1589485559960</created>
@@ -259,6 +242,51 @@
           <url>file://$PROJECT_DIR$/src/com/hackerRank/CountVowels.java</url>
           <line>5</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hackerRank2/FlippingMatrix.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hackerRank2/FlippingMatrix.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hackerRank2/FlippingMatrix.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hackerRank2/FlippingMatrix.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hackerRank2/FlippingMatrix.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hackerRank2/FlippingMatrix.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hackerRank2/FlippingMatrix.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hackerRank2/FlippingMatrix.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hackerRank2/FlippingMatrix.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArithmeticException" package="java.lang" />
