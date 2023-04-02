@@ -6,7 +6,7 @@ public class FibonnaciApp {
         //fib(0)=0
         //fib(1)=1
         //fib(2)=fib(1)+fib(0)=1... and so on
-        System.out.println(fib(6));
+        System.out.println(fib(30));
     }
     public static int fib(int n){
         if(n==0){

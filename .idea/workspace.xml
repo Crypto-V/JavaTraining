@@ -5,18 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e60bd51-5d0b-4a87-b4e5-c03949db2915" name="Default Changelist" comment="exception handling">
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coderbyte/NextLargestNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codility/SmallestNumbersSumedGetsANumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hackerRank2/AutomateDecisionMaking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hackerRank2/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hackerRank2/DashToCamel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hackerRank2/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hackerRank2/MatchLastTwoChars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hackerRank2/Mocka.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hackerRank2/SpinWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codewars/BitCounting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codewars/BreakNumberToOneDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codewars/FibonaciProducts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codewars/Prime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codewars/SameArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codewars/SumDigPower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codewars/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hackerRank2/SplitString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaTraining.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaTraining.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/codewars/HighestScoringWord.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/codewars/HighestScoringWord.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/hackerRank/FibonnaciApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/hackerRank/FibonnaciApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/hackerRank2/InsertionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/hackerRank2/InsertionSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codewars/HighestScoringWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codewars/HighestScoringWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hackerRank/FibonnaciApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hackerRank/FibonnaciApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,31 +52,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/verej/OneDrive/Desktop/SpringBootLearnToBuild/mycoolapp",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/verej/OneDrive/Desktop/SpringBootLearnToBuild/mycoolapp&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.streams" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.InsertionSort">
+  <component name="RunManager" selected="JUnit.BreakNumberToOneDigit.BasicTests">
     <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
       <option name="appName" />
       <option name="appServicePlanName" />
@@ -107,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hackerRank2.BubbleSort" />
+    <configuration name="BreakNumberToOneDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codewars.BreakNumberToOneDigit" />
       <module name="JavaTraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hackerRank2.*" />
+          <option name="PATTERN" value="com.codewars.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hackerRank2.InsertionSort" />
+    <configuration name="FibonaciProducts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codewars.FibonaciProducts" />
       <module name="JavaTraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hackerRank2.*" />
+          <option name="PATTERN" value="com.codewars.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpinWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hackerRank2.SpinWords" />
+    <configuration name="FibonnaciApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hackerRank.FibonnaciApp" />
       <module name="JavaTraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hackerRank2.*" />
+          <option name="PATTERN" value="com.hackerRank.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,33 +148,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MatchLastTwoChars.staticTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BreakNumberToOneDigit.BasicTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaTraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hackerRank2.*" />
+          <option name="PATTERN" value="com.codewars.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.hackerRank2" />
-      <option name="MAIN_CLASS_NAME" value="com.hackerRank2.MatchLastTwoChars" />
-      <option name="METHOD_NAME" value="staticTests" />
+      <option name="PACKAGE_NAME" value="com.codewars" />
+      <option name="MAIN_CLASS_NAME" value="com.codewars.BreakNumberToOneDigit" />
+      <option name="METHOD_NAME" value="BasicTests" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpinWords.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SameArrays.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaTraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hackerRank2.*" />
+          <option name="PATTERN" value="com.codewars.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.hackerRank2" />
-      <option name="MAIN_CLASS_NAME" value="com.hackerRank2.SpinWords" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="PACKAGE_NAME" value="com.codewars" />
+      <option name="MAIN_CLASS_NAME" value="com.codewars.SameArrays" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -180,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.InsertionSort" />
-        <item itemvalue="Application.BubbleSort" />
-        <item itemvalue="JUnit.SpinWords.test" />
-        <item itemvalue="Application.SpinWords" />
-        <item itemvalue="JUnit.MatchLastTwoChars.staticTests" />
+        <item itemvalue="JUnit.BreakNumberToOneDigit.BasicTests" />
+        <item itemvalue="Application.BreakNumberToOneDigit" />
+        <item itemvalue="Application.FibonaciProducts" />
+        <item itemvalue="Application.FibonnaciApp" />
+        <item itemvalue="JUnit.SameArrays.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -231,7 +233,8 @@
       <workItem from="1677180426652" duration="2964000" />
       <workItem from="1679703806232" duration="906000" />
       <workItem from="1679710373745" duration="2000" />
-      <workItem from="1680291860145" duration="20520000" />
+      <workItem from="1680291860145" duration="20763000" />
+      <workItem from="1680348644768" duration="25960000" />
     </task>
     <task id="LOCAL-00001" summary="exception handling">
       <created>1589485559960</created>
@@ -268,6 +271,41 @@
           <url>file://$PROJECT_DIR$/src/com/hackerRank/CountVowels.java</url>
           <line>5</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/codewars/BreakNumberToOneDigit.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/codewars/BreakNumberToOneDigit.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/codewars/BreakNumberToOneDigit.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/codewars/BreakNumberToOneDigit.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/codewars/BreakNumberToOneDigit.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/codewars/BreakNumberToOneDigit.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/codewars/BreakNumberToOneDigit.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="76" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArithmeticException" package="java.lang" />
